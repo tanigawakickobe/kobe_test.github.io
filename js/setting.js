@@ -23,17 +23,27 @@ OpenSpending.Styles.Cofog = {
   '3': { icon: 'icons/schools.svg', color: '#C75746', bcolor: '#0AB971' },
   '4': { icon: 'icons/pre-school.svg', color: '#C75746', bcolor: '#0AB971' },
   '5': { icon: 'icons/waste.svg', color: '#C75746', bcolor: '#0AB971' },
-  '6': { icon: 'icons/environment.svg', color: '#C75746', bcolor: '#4E6D00' },
+  '6': { icon: 'icons/nuclear.svg', color: '#C75746', bcolor: '#4E6D00' },
   '7': { icon: 'icons/dollar.svg', color: '#C75746', bcolor: '#4E6D00' },
   '8': { icon: 'icons/forest.svg', color: '#C75746', bcolor: '#4E6D00' },
   '9': { icon: 'icons/farms.svg', color: '#C75746', bcolor: '#4E6D00' },
-  '10': { icon: 'icons/our-streets.svg', color: '#C75746', bcolor: '#D33673' },
+  '10': { icon: 'icons/pig.svg', color: '#C75746', bcolor: '#D33673' },
   '11': { icon: 'icons/housing.svg', color: '#C75746', bcolor: '#D33673' },
   '12': { icon: 'icons/fire-brigade.svg', color: '#C75746', bcolor: '#D33673' },
   '13': { icon: 'icons/legislative.svg', color: '#C75746', bcolor: '#D33673' },
   '14': { icon: 'icons/environment-admin.svg', color: '#C75746', bcolor: '#2A3A03' },
   '15': { icon: 'icons/pig.svg', color: '#C75746', bcolor: '#2A3A03'  },
-  '16': { icon: 'icons/money.svg', color: '#C75746', bcolor: '#2A3A03'  }
+  '16': { icon: 'icons/pig.svg', color: '#C75746', bcolor: '#2A3A03'  },
+  '17': { icon: 'icons/pig.svg', color: '#C75746', bcolor: '#2A3A03'  },
+  '18': { icon: 'icons/pig.svg', color: '#C75746', bcolor: '#2A3A03'  },
+  '19': { icon: 'icons/pig.svg', color: '#C75746', bcolor: '#2A3A03'  },
+  '20': { icon: 'icons/pig.svg', color: '#C75746', bcolor: '#2A3A03'  },
+  '21': { icon: 'icons/pig.svg', color: '#C75746', bcolor: '#2A3A03'  },
+  '22': { icon: 'icons/pig.svg', color: '#C75746', bcolor: '#2A3A03'  },
+  '23': { icon: 'icons/pig.svg', color: '#C75746', bcolor: '#2A3A03'  },
+  '24': { icon: 'icons/pig.svg', color: '#C75746', bcolor: '#2A3A03'  },
+  '25': { icon: 'icons/pig.svg', color: '#C75746', bcolor: '#2A3A03'  },
+  '26': { icon: 'icons/money.svg', color: '#C75746', bcolor: '#2A3A03'}
 };
 
 
